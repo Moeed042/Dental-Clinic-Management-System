@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clinic",
+  "description": "Clean, modern single-page website for Dental Clinic featuring interactive before & after smile transformation sliders, service overview, patient reviews, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
